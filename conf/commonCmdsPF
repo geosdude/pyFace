@@ -1,0 +1,5 @@
+(dS'quit'
+S'self.closeGui()'
+sS'exit'
+S'self.exit()'
+s.

@@ -1,0 +1,7 @@
+/bin
+*.pyc
+*.pyo
+*.tar
+/getVersion
+/passGen
+/stringTest
