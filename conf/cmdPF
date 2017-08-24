@@ -202,4 +202,20 @@ sI101
 S'print __builtins__.guiDct'
 sI102
 S"self.textVar.set('Test output sent to text widget')"
+sI103
+S"self.textVar.set('Test output sent to text widget')"
+sI104
+S"self.textVar.set('Test output sent to text widget')"
+sI105
+S"self.textVar.set('Test output sent to text widget')"
+sI106
+S"self.textVar.set('Test output sent to text widget')"
+sI107
+S'print self.textVar.get()'
+sI108
+S'self.root.destroy()'
+sI109
+S'self.text.withdraw()'
+sI110
+S'self.text.kill()'
 s.
