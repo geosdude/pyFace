@@ -1026,7 +1026,7 @@ class GUI_Tools():
           #self.saveDbase(self.guiDct['guiPF'], self.guiDct)
         except StandardError:
           print "PostOps boinked."
-          P()
+          #P()
         finally:
           self.restoreIO()
           #self.traceBack = sys.exc_info()[2]
